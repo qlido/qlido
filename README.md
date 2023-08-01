@@ -5,7 +5,7 @@
 <a href="https://www.instagram.com/simsimhan_hohyun/"><img src="https://img.shields.io/badge/Instagram-FF0080?style=flat-round&logo=instagram&logoColor=white"/>
   
 
-
+[![wakatime](https://wakatime.com/badge/user/5c41063d-ef5c-4526-8a74-2fbe993b45f5.svg)](https://wakatime.com/@5c41063d-ef5c-4526-8a74-2fbe993b45f5)
 
 
 ![qldiorag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qlido&theme=github_dark&show_icons=true)[![qlido's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=qlido&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/qlido)
