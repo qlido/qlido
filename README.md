@@ -2,7 +2,7 @@
 백엔드와 DevOps 개발자 김호현입니다! 
 
 - Kotlin, Java - **Spring Boot**, **JPA**
-- Node js(ts) - **Express**, **prisma**, typeOrm, sequelize
+- Node js(ts) - **Express**, **prisma**, typeorm, sequelize
 - Database - **Mysql**, Postgresql, Redis, MongoDB
 - Cloud - **AWS**, GCP
 - Other - **Nginx**, **Docker**
